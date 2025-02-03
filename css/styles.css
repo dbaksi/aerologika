@@ -1,0 +1,56 @@
+.container {
+  display: grid;
+  grid-template-columns: 150px 1fr 175px; /* 2 columns */
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+header {
+  background-color: gainsboro;
+  height: 7vh;
+  grid-column: 1 / -1; /* span all columns */
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #333333;
+  font-style: normal;
+}
+
+article {
+  background-color: lightgrey;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  color: #333333;
+  font-style: normal;
+}
+
+aside {
+  background-color: silver;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  color: #333333;
+  font-style: normal;
+}
+
+footer {
+  background-color: gainsboro;
+  height: 6.5vh;
+  grid-column: 1 / -1; /* span all columns */
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  color: #333333;
+  font-style: normal;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  color: #333333;
+  font-style: normal;
+}
+
+
+h3 {
+  font-size:15px;
+}
+
+
