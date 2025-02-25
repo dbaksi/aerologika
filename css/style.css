@@ -348,17 +348,17 @@ p a {
 	padding: 0 10px;
 }
 .contact {
-	background-color: #f8f8f8;
+	background-color: lightsteelblue;
 	width: 270px;
 	padding: 124px 60px;
-	text-aligh: justify;
+	text-align: justify;
 }
 .contact p span {
 	color: #2c2c2c;
 	display: block;
-	font-size: 30px;
+	font-size: 15px;
 	line-height: 36px;
-	padding: 18px 0;
+	padding: 10px 0;
 }
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
