@@ -91,16 +91,16 @@ img {
 	text-aligh: justify;
 }
 #navigation li a {
-	color: #818181;
+	color: whitesmoke;
 	font-size: 15px;
 	line-height: 30px;
 	text-decoration: none;
 }
 #navigation li a:hover {
-	color: #000;
+	color: lightseagreen;
 }
 #navigation li.active a {
-	color: #f99600;
+	color: lightskyblue;
 }
 #adbox {
 	background: url(../images/bg-adbox.jpg) repeat-x left top;
